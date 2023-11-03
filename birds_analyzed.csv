@@ -1,0 +1,14 @@
+common_name,scientific_name,start_time,end_time,confidence,label,file,group_index,correct,suggestion
+American Goldfinch,Spinus tristis,3.0,6.0,0.6742206811904907,Spinus tristis_American Goldfinch,goldzeisig_-117.0634_32.5547,0,False,Spatz
+American Goldfinch,Spinus tristis,15.0,18.0,0.3014779686927795,Spinus tristis_American Goldfinch,goldzeisig_-117.0634_32.5547,1,,
+American Goldfinch,Spinus tristis,57.0,60.0,0.5652427077293396,Spinus tristis_American Goldfinch,goldzeisig_-117.0634_32.5547,2,,
+American Goldfinch,Spinus tristis,72.0,75.0,0.4895430505275726,Spinus tristis_American Goldfinch,goldzeisig_-117.0634_32.5547,3,,
+Black-capped Chickadee,Poecile atricapillus,0.0,3.0,0.988555371761322,Poecile atricapillus_Black-capped Chickadee,schwarzkopfmeise_-105.1179_39.9976,0,,
+Black-capped Chickadee,Poecile atricapillus,3.0,6.0,0.993463933467865,Poecile atricapillus_Black-capped Chickadee,schwarzkopfmeise_-105.1179_39.9976,1,True,
+Black-capped Chickadee,Poecile atricapillus,6.0,9.0,0.9720919132232666,Poecile atricapillus_Black-capped Chickadee,schwarzkopfmeise_-105.1179_39.9976,2,True,
+Black-capped Chickadee,Poecile atricapillus,12.0,15.0,0.9921292066574096,Poecile atricapillus_Black-capped Chickadee,schwarzkopfmeise_-105.1179_39.9976,3,,
+Black-capped Chickadee,Poecile atricapillus,15.0,18.0,0.9585336446762084,Poecile atricapillus_Black-capped Chickadee,schwarzkopfmeise_-105.1179_39.9976,4,,
+Black-capped Chickadee,Poecile atricapillus,21.0,24.0,0.957151174545288,Poecile atricapillus_Black-capped Chickadee,schwarzkopfmeise_-105.1179_39.9976,5,,
+Black-capped Chickadee,Poecile atricapillus,24.0,27.0,0.9965819716453552,Poecile atricapillus_Black-capped Chickadee,schwarzkopfmeise_-105.1179_39.9976,6,,
+Black-capped Chickadee,Poecile atricapillus,27.0,30.0,0.9926615953445436,Poecile atricapillus_Black-capped Chickadee,schwarzkopfmeise_-105.1179_39.9976,7,,
+Black-capped Chickadee,Poecile atricapillus,30.0,33.0,0.9804880023002625,Poecile atricapillus_Black-capped Chickadee,schwarzkopfmeise_-105.1179_39.9976,8,,
