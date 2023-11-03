@@ -1,16 +1,16 @@
 # Anleitung für Fabi
 
-####1. Checken ob **git** auf dem PC installiert ist
+#### 1. Checken ob **git** auf dem PC installiert ist
 
 `git --version`
 
-####2. Repository in Ordner der Wahl clonen
+#### 2. Repository in Ordner der Wahl clonen
 
 `cd <gewünschter_ordner>`
 
 `git clone https://github.com/jasperschalla/birdnet.git`
 
-####3. Checken ob **Anaconda** installiert ist
+#### 3. Checken ob **Anaconda** installiert ist
 
 `conda --version`
 
@@ -20,11 +20,11 @@ Im ordner der Wahl, in den man das repository geclont hat, requirements.txt nutz
 
 <span style="color:red">Falls das Programm auf Windows ausgeführt gibt es Probleme mit dem tensorflow-macos Paket! Tensorflow-Pakete aus <i>requirements.txt</i> löschen und selber installieren.</span> 
 
-####4. Audiodateien kopieren
+#### 4. Audiodateien kopieren
 
 In den Ordner `/sounds` die .wav-Dateien kopieren
 
-####5. Script ausführen
+#### 5. Script ausführen
 
 Conda-Environment aktivieren:
 
@@ -36,7 +36,7 @@ Und schließlich das Script ausführen:
 
 .csv-Datei mit Ergebnissen wird erstellt.
 
-####6. UI nutzen
+#### 6. UI nutzen
 
 UI-App starten:
 
